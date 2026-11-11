@@ -14,11 +14,11 @@ string CreatePage(string title, string content)
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>NovaHarvest - {title}</title>
-        <link rel="stylesheet" href="/css/site.css">
+        <link rel="stylesheet" href="/css/style.css">
     </head>
     <body>
         <header>
-            <img src="/img/logo.png" alt="Logo NovaHarvest">
+            <img src="/img/logo.webp" alt="Logo NovaHarvest">
             <h2>NovaHarvest</h2>
 
             <nav>
