@@ -2,6 +2,8 @@
 services:
   backend:
     build: ./backend
+    expose:
+      - "8080"
 
   web:
     build: ./web
